@@ -1,0 +1,11 @@
+.login-logo .login-logo-img {
+  width: 222px;
+  height: 30px;
+  background: url(../../content/images/logo/owa_login_222_30.svg) no-repeat;
+}
+.login-logo .passcode-logo-img,
+.login-logo .push-logo-img {
+  width: 220px;
+  height: 30px;
+  background: url(../../content/images/logo/verikey_login_220_30.svg) no-repeat;
+}
